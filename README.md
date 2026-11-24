@@ -22,4 +22,4 @@ This Data Science Mini Project analyzes the Netflix Movies and TV Shows dataset 
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/samruddhi96-S/Netflix-Data-Analysis.git
+   git clone (https://github.com/samruddhi96-S/Netflix-Data-Analysis.git)
